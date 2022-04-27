@@ -50,7 +50,7 @@ end
 
 print("Credits To Nona Pls Credits ")
 
-shared.MoneyFarm = true -- Just execute shared.MoneyFarm = false to stop farming
+shared.MoneyFarm = false -- Just execute shared.MoneyFarm = false to stop farming
 
 while shared.MoneyFarm do
     wait()
